@@ -4,7 +4,7 @@ website when an article is clicked. The program loads in 5 different RSS feeds. 
 updated daily since the program loads in the feeds using the URL's. Each feed is loaded 
 into the Feed function which displays them.
 
-<img src='demo.gif' width=200>
+<img src='demo.gif'>
 
 ## Requirements
 - Processing
